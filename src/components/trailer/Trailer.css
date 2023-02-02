@@ -1,0 +1,20 @@
+.react-player-container {
+    height: 90vh;
+}
+
+.close-player-button-container {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+}
+
+.close-button-icon {
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.close-button-icon:hover {
+    /* font-size: 3rem; */
+    color: gold;
+    
+}
